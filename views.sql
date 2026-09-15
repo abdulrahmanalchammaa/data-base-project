@@ -1,0 +1,40 @@
+CREATE VIEW KADIKOY_TRIP
+AS
+(
+SELECT Name_Trip
+FROM GUIDE.trips
+WHERE arrive = arrive
+);
+GO
+CREATE VIEW FLORYA_TRIP
+AS
+(
+SELECT Name_Trip
+FROM GUIDE.trips
+WHERE arrive = arrive
+);
+GO
+CREATE VIEW BOSPHOR_TRIP
+AS
+(
+SELECT Name_Trip
+FROM GUIDE.trips
+WHERE arrive = arrive
+);
+GO
+CREATE VIEW BALAT_TRIP
+AS
+(
+SELECT Name_Trip
+FROM GUIDE.trips
+WHERE arrive = arrive
+);
+GO
+CREATE VIEW MODA_TRIP
+AS
+(
+SELECT Name_Trip
+FROM GUIDE.trips
+WHERE arrive = arrive
+);
+GO
